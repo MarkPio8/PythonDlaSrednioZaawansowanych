@@ -1,0 +1,7 @@
+drzewa
+budynek
+sciana
+rower
+ogord
+las
+bank
